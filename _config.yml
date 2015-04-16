@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jose Simoes
+tagline:          'Jose Simoes Home Page'
+description:      'Currently CPO @ <a href="http://dafiti.com.br" target="_blank">Dafiti</a>. Entrepreneur, bitcoin enthusiast and recently investor. Find more about me at <a href="https://twitter.com/jmsimoes" target="_blank">@jmsimoes</a>.'
+url:              http://www.josesimoes.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jsimoes/jsimoes.github.io
