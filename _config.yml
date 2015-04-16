@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/jsimoes/jsimoes.github.io
+  
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-30911564-1
