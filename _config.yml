@@ -9,13 +9,13 @@ relative_permalinks: true
 # Setup
 title:            Jose Simoes
 tagline:          'Jose Simoes Home Page'
-description:      'Currently CPO @ <a href="http://dafiti.com.br" target="_blank">Dafiti</a>. Entrepreneur, bitcoin enthusiast and recently investor. Find more about me at <a href="https://twitter.com/jmsimoes" target="_blank">@jmsimoes</a>.'
+description:      'Currently CPO @ <a href="http://dafiti.com.br" target="_blank">Dafiti</a> Entrepreneur, bitcoin enthusiast and recently investor. Find more about me at <a href="https://twitter.com/jmsimoes" target="_blank">@jmsimoes</a>'
 url:              http://www.josesimoes.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jose Simoes'
+  url:            https://twitter.com/jmsimoes
 
 paginate:         5
 
